@@ -91,7 +91,7 @@ body {
   position: relative;
   width: 1440px;
   height: 670px;
-  background-image: url('images/Front View.jpg');
+  background-image: url('Front View.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
